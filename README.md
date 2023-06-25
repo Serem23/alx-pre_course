@@ -1,2 +1,1 @@
-# alx-pre_course
-I am ALX student 
+My first readme
