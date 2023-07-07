@@ -1,1 +1,2 @@
-echo ALX school is so cool X
+#!/bin/bash
+echo "ALX School"
